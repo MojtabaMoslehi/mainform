@@ -1,0 +1,20 @@
+C:\Users\ASUS\Desktop\New folder\main form\main form\bin\Debug\net7.0-windows\main form.exe
+C:\Users\ASUS\Desktop\New folder\main form\main form\bin\Debug\net7.0-windows\main form.deps.json
+C:\Users\ASUS\Desktop\New folder\main form\main form\bin\Debug\net7.0-windows\main form.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\main form\main form\bin\Debug\net7.0-windows\main form.dll
+C:\Users\ASUS\Desktop\New folder\main form\main form\bin\Debug\net7.0-windows\main form.pdb
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main_form.Form1.resources
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main_form.Form2.resources
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main_form.Form3.resources
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main form.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main form.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main form.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main form.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main form.dll
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\refint\main form.dll
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main form.pdb
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main form.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\ref\main form.dll
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main_form.Form4.resources
+C:\Users\ASUS\Desktop\New folder\main form\main form\obj\Debug\net7.0-windows\main_form.Form5.resources
